@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="rowCount" format="integer"/>
+    <attr name="verticalMargin" format="dimension"/>
+    <attr name="horizontalMargin" format="dimension"/>
+
+    <declare-styleable name="HorizontalAutoScrollLayout">
+        <attr name="rowCount"/>
+        <attr name="horizontalMargin"/>
+    </declare-styleable>
+
+
+</resources>
